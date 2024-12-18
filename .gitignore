@@ -1,4 +1,4 @@
-*.png
+env/
+venv/
 
-env\
-venv\
+*.png
